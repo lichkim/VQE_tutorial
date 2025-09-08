@@ -14,3 +14,13 @@
 ## 사용 방법
 
 Jupyter Notebook을 실행하여 튜토리얼을 단계별로 따라 진행할 수 있습니다.
+
+## 참고 자료 (References)
+이 튜토리얼은 아래의 도서를 학습하고 그 내용을 참고하여 작성되었습니다.
+
+* **책 제목**: Quantum Chemistry and Computing for the Curious
+* **저자**: Keeper L.Sharkey, Alain Chance
+* **출판사**: Packt Publising Ltd.
+
+# 라이선스
+이 프로젝트는 [MIT 라이넌스]를 따릅니다. 참고 자료의 코드 또한 MIT 라이선스를 따릅니다.
